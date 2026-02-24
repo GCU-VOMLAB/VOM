@@ -118,6 +118,20 @@ function loaded() {
                     }
                 }
             }
+
+            // CSV 데이터 처리 완료 후, Undergraduate Students 그리드에 "Your Name" 카드를 마지막에 추가
+            const $us_grid = $("#us-grid");
+            if ($us_grid && $us_grid.length) {
+                $us_grid.append(`
+                    <div class="member-card">
+                        <div class="member-photo" style="background-image: url('assets/images/member/iwt.png');"></div>
+                        <div class="member-info">
+                            <h4 class="member-name">Your Name</h4>
+                            <p class="member-interest">Next Generation Researcher</p>
+                        </div>
+                    </div>
+                `);
+            }
         }
     });
 }
