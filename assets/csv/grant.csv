@@ -1,13 +1,18 @@
 ﻿field,Images,title,period,institution ,Tag
-1,nextep.png,StorySync: Real-time Interactive AI Media Fasade Content Generation,2025.11 - 2026.02 ,Nextep,
-1,nrf.jpeg,BRIDGE 3.0: Beyond Research Innovation and Development for Good Enterprises 3.0 ,2025.10 - 2025.12,National Research Foundation of Korea,대학 창의적 자산 실용화 지원 사업
-1,nia.jpg,Data Quality Verification for Large-scale AI Training,2025.07 - 2025.12,National Information Society Agency,
+1,shanghai_jiaotong.png,Shanghai Jiao Tong University Overseas Visiting Scholar,2026.06 - 2027.05,Shanghai Jiao Tong University,
+1,stcsm.jpeg,Development and Clinical Validation of a Generative AI-Based 3D Volume Rendering Algorithm for Non-Small Cell Lung Cancer: A Multicenter Study in China and Korea,2026.06 - 2028.05,Science and Technology Commission of Shanghai Municipality,Shanghai Sci-Tech Partner Research Program
+1,iitp.jpeg,Development of an On-Local Multi-Domain Generative AI System Based on High-Performance Lightweight H-MoE Foundation Models,2026.04 - 2029.12,Institute for Information & Communications Technology Promotion,Graduate Generative AI Leading Talent Training Program
+1,compa.png,IP Enhancement and Commercialization for Real-time Screen Metadata-Driven AI Video Personalization,2026.04 - 2029.12,Commercialization Promotion Agency for R&D Outcomes,IP-based Star Scientist Support Program
+2,nextep.png,StorySync: Real-time Interactive AI Media Fasade Content Generation,2025.11 - 2026.02 ,Nextep,
+2,nrf.jpeg,BRIDGE 3.0: Beyond Research Innovation and Development for Good Enterprises 3.0 ,2025.10 - 2025.12,National Research Foundation of Korea,대학 창의적 자산 실용화 지원 사업
+2,nia.jpg,Data Quality Verification for Large-scale AI Training,2025.07 - 2025.12,National Information Society Agency,
+1,nrf.jpeg,Research on Precise Environment Reconstruction and Adaptive Direct Volume Rendering Visualization based on Gaussian Splatting in Mixed Reality,2025.09 - 2027.08,National Research Foundation of Korea,Doctoral Student Research Fellowship (박사과정연구장려금) 
 1,nrf.jpeg,A Development of Clinical Decision Supporting Algorithm Using Artificial Inteligence Model for the Surgical Treatment in Patients with Cervical Myelopathy,2025.04 - 2029.03,National Research Foundation of Korea,Consolidator Grant (중견연구)
 1,nrf.jpeg,Research of NeRF · GS Algorithm for Volumetric Medical Image Reconstruction and Physical Surface Reconstruction in Surgical Environment and Validation in Augmented Surgical Visualization,2025.03 - 2028.02,National Research Foundation of Korea,Outstanding Young Scientist Grant (우수신진연구)
 2,hive.png,Development of A 3D Welding Reconstruction and Measrument Soloution Using Shadow Metric System,2024.04 - 2024.12,Hive Vision,
 2,astron.png,Development of Human Motion Recognition Algorithm for Hemiplegic Stroke Patients,2023.08 - 2023.12,Astron,
 2,gachon.jpg,Development of A Lesion Segmentation Algorithm for Transcatheter Aortic Valve Replacement,2023.05 - 2024.05,Gachon University,Outstanding Research Grant (우수연구과제)
-1,kocca.jpg,Cultural Technology Specialist Training and Project for Metaverse and Game,2023.04 - 2025.12,Korea Creative Content Agency,
+2,kocca.jpg,Cultural Technology Specialist Training and Project for Metaverse and Game,2023.04 - 2025.12,Korea Creative Content Agency,
 2,devine.png,Development of an Automatic Ground Truth Data Generation Program for Autonomous Driving Artificial Intelligence Training,2022.11 - 2023.02,Devine Technology,
 1,khidi.png,Development of Medical Twin Technology for Transcatheter Aortic Valve Replacement in Severe Aortic Valve Stenosis based on Real World Data,2022.07 - 2026.12,Korea Health Industry Development Institute,
 2,nrf.jpeg,Development and Application of Empathy Story-Virtual Reality for Resolving Ethical Dilemmas in the Post-human Era: Focusing on Sports Violence,2022.07 - 2025.06,National Research Foundation of Korea,Humanities and Social Sciences Collaborative Research Support Grant (일반공동연구지원사업)
